@@ -1,0 +1,11 @@
+name: compliance
+description: |
+  This document is used to track a projects PIA and STRA
+  compliance. This Repo is a sub repo of EDUC-CAPS and EDUC-ISFS.  These repo's are responsible for the PIA and STRA
+spec:
+  - name: PIA
+    status: in-progress
+    last-updated: '2019-11-22T00:03:52.138Z'
+  - name: STRA
+    status: completed
+    last-updated: '2019-11-22T00:03:52.138Z'
